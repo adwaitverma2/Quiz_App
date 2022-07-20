@@ -1,0 +1,309 @@
+{
+  "ques": [
+    {
+      "id": 1,
+      "Question": "What does the abbreviation HTML stand for?",
+      "a": "Hypertext Markup Language",
+      "b": "HyperText and links Markup Language",
+      "c": "HyperText  Language",
+      "d": "None of these",
+      "ans": "Hypertext Markup Language"
+    },
+    {
+      "id": 2,
+      "Question": "How to create an unordered list (a list with the list items in bullets) in HTML?",
+      "a": "<ol>",
+      "b": "<ul>",
+      "c": "<i>",
+      "d": "<li>",
+      "ans": "<ul>"
+    },
+    {
+      "id": 3,
+      "Question": "The <hr> tag in HTML is used for -",
+      "a": "new line",
+      "b": "vertical ruler",
+      "c": "new paragraph",
+      "d": "horizontal ruler",
+      "ans": "horizontal ruler"
+    }
+  ],
+  "USER": [
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 3,
+      "userName": "Adwait",
+      "id": 39
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "<ul>"
+      ],
+      "marks": 2,
+      "userName": "Amit",
+      "id": 40
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 3,
+      "userName": "Affan",
+      "id": 54
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 3,
+      "userName": "Rahul",
+      "id": 56
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 3,
+      "userName": "vivek",
+      "id": 57
+    },
+    {
+      "data": [
+        "",
+        ""
+      ],
+      "marks": 0,
+      "userName": "asdada",
+      "id": 58
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 3,
+      "userName": "RAHUL",
+      "id": 59
+    },
+    {
+      "data": [],
+      "marks": 0,
+      "userName": "",
+      "id": 60
+    },
+    {
+      "data": [
+        "Hypertext Markup Language"
+      ],
+      "marks": 1,
+      "userName": "adada",
+      "id": 61
+    },
+    {
+      "data": [
+        "HyperText and links Markup Language"
+      ],
+      "marks": 0,
+      "userName": "adwq",
+      "id": 62
+    },
+    {
+      "data": [
+        "Hypertext Markup Language"
+      ],
+      "marks": 1,
+      "userName": "wqqeq",
+      "id": 63
+    },
+    {
+      "data": [
+        "Hypertext Markup Language",
+        "<ul>",
+        "<ul>"
+      ],
+      "marks": 2,
+      "userName": "SQ",
+      "id": 64
+    },
+    {
+      "data": [
+        "None of these",
+        "<i>",
+        "<i>"
+      ],
+      "marks": 0,
+      "userName": "fghxa",
+      "id": 65
+    },
+    {
+      "data": [
+        "None of these",
+        "<i>",
+        "vertical ruler"
+      ],
+      "marks": 0,
+      "userName": "Rahul",
+      "id": 66
+    },
+    {
+      "data": [
+        "None of these",
+        "None of these",
+        "None of these"
+      ],
+      "marks": 0,
+      "userName": "Adwait",
+      "id": 67
+    },
+    {
+      "data": [
+        "None of these",
+        "None of these",
+        "None of these"
+      ],
+      "marks": 0,
+      "userName": "fghxa",
+      "id": 68
+    },
+    {
+      "data": [
+        "None of these",
+        "<i>",
+        "vertical ruler"
+      ],
+      "marks": 0,
+      "userName": "fghxa",
+      "id": 69
+    },
+    {
+      "data": [
+        "HyperText and links Markup Language",
+        "HyperText and links Markup Language",
+        "HyperText and links Markup Language"
+      ],
+      "marks": 0,
+      "userName": "aghxswfgh",
+      "id": 70
+    },
+    {
+      "data": [
+        "HyperText  Language",
+        "HyperText  Language",
+        "horizontal ruler"
+      ],
+      "marks": 1,
+      "userName": "aaaa",
+      "id": 71
+    },
+    {
+      "data": [
+        "HyperText  Language",
+        "HyperText  Language",
+        "vertical ruler"
+      ],
+      "marks": 0,
+      "userName": "aaaa",
+      "id": 72
+    },
+    {
+      "data": [
+        "HyperText and links Markup Language",
+        "<ul>",
+        "horizontal ruler"
+      ],
+      "marks": 2,
+      "userName": "Rahul",
+      "id": 73
+    },
+    {
+      "data": [
+        "HyperText  Language",
+        "<ul>",
+        "vertical ruler"
+      ],
+      "marks": 1,
+      "userName": "ljgu",
+      "id": 74
+    }
+  ],
+  "reg": [
+    {
+      "id": 1,
+      "UserName": "Adwait",
+      "Password": "258"
+    },
+    {
+      "UserName": "Harshit",
+      "Password": "123",
+      "id": 2
+    },
+    {
+      "UserName": "saad",
+      "Password": "147",
+      "id": 3
+    },
+    {
+      "UserName": "amit",
+      "Password": "123",
+      "id": 4
+    },
+    {
+      "UserName": "Harshit",
+      "Password": "kk",
+      "id": 8
+    },
+    {
+      "UserName": "Harshit",
+      "Password": "asasa",
+      "id": 11
+    },
+    {
+      "UserName": "Harshit",
+      "Password": "asasa",
+      "id": 12
+    },
+    {
+      "UserName": "Adwait",
+      "Password": "632",
+      "id": 13
+    },
+    {
+      "UserName": "Amit",
+      "Password": "987",
+      "id": 14
+    },
+    {
+      "UserName": "verma",
+      "Password": "123",
+      "id": 15
+    },
+    {
+      "UserName": "Adwait",
+      "Password": "",
+      "id": 16
+    }
+  ],
+  "admin": [
+    {
+      "AdminName": "Harshit@gmail.com",
+      "Password": "Harshit123"
+    },
+    {
+      "AdminName": "Adwait@gmail.com",
+      "Password": "Adwait123"
+    }
+  ]
+}
